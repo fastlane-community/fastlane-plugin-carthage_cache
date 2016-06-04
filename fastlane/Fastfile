@@ -1,3 +1,5 @@
-lane :test do
-  carthage_cache_install()
+lane :install do
+  carthage_cache_install(
+    bucket: 'carthage-cache'
+  )
 end
