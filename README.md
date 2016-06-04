@@ -51,3 +51,7 @@ For more information about how the `fastlane` plugin system works, check out the
 ## About `fastlane`
 
 `fastlane` automates building, testing, and releasing your app for beta and app store distributions. To learn more about `fastlane`, check out [fastlane.tools](https://fastlane.tools).
+
+## Acknowledgments
+
+[Guido Marucci Blas](https://github.com/guidomb), who created the [carthage_cache](https://github.com/guidomb/carthage_cache) gem.
