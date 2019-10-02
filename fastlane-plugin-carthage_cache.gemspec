@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = %q{t@thi.im}
 
   spec.summary       = %q{A Fastlane plugin that allows to cache Carthage/Build folder in Amazon S3.}
-  spec.homepage      = "https://github.com/thii/fastlane-plugin-carthage_cache"
+  spec.homepage      = "https://github.com/fastlane-community/fastlane-plugin-carthage_cache"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
